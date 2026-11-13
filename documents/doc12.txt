@@ -1,0 +1,3 @@
+Database Management
+
+A database stores and organizes information so that it can be accessed efficiently. Database management systems allow users to insert, update, delete and retrieve data. Databases are widely used in web applications and information systems.

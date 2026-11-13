@@ -1,0 +1,3 @@
+Operating Systems
+
+An operating system manages computer hardware and software resources. It manages processes, memory, files and input output devices. Operating systems provide an interface between users and computer applications.

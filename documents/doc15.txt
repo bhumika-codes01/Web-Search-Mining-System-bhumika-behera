@@ -1,0 +1,3 @@
+Blockchain
+
+Blockchain is a technology that stores information in a distributed digital ledger. Data is organized into blocks and secured using cryptography. Blockchain is used in financial systems, digital transactions and secure information sharing.

@@ -1,0 +1,3 @@
+Software Engineering
+
+Software engineering involves designing, developing, testing and maintaining software systems. Software development uses programming languages, databases and computer networks. Good software engineering improves the quality and reliability of applications.

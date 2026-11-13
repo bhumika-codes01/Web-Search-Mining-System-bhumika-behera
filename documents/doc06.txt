@@ -1,0 +1,3 @@
+Search Engines
+
+A search engine helps users find information on the internet. Search engines crawl web pages, create indexes and process user queries. Information retrieval and web mining are important technologies used by search engines.

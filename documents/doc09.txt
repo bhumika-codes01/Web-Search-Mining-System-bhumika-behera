@@ -1,0 +1,3 @@
+Cloud Computing
+
+Cloud computing provides computing resources through the internet. Users can access storage, software and processing power from cloud servers. Cloud computing is useful for data processing, machine learning and large applications.

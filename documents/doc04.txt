@@ -1,0 +1,3 @@
+Data Mining
+
+Data mining is the process of discovering useful patterns and information from large datasets. Data mining techniques include classification, clustering and association analysis. Machine learning algorithms are often used in data mining.

@@ -1,0 +1,3 @@
+Data Science
+
+Data science combines statistics, programming, data mining and machine learning to extract useful knowledge from data. Data scientists analyze large datasets and create models for prediction and decision making.
